@@ -1,6 +1,6 @@
 # TempRepo
 
 This is a temporary file created to learn how 
-GitHub works
+GitHub works with SourceTree
 
-I have now modified it in local editor
+I have modified it in local editor 
